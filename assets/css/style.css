@@ -1,0 +1,17 @@
+body {
+	margin: 5px 0 0 5px;
+}
+
+.header {
+	float: left;
+	clear: right;
+}
+h1 {
+	font-size: 30px;
+	background-color: orange;
+	padding: 20px 0;
+}
+
+img {
+	width: 80px;
+}
